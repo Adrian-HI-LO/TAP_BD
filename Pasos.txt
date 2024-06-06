@@ -1,0 +1,5 @@
+Que es PWA
+
+Paso Dos: Crear la carpta manifest.json en la carpeta del frontend y el archivo serviceWorker.js
+Paso Tres: Dos propiedades para el nombre de la app, name y name_short en al erchivo manifest.json
+     landscape es horientacion horizontal
