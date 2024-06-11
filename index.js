@@ -54,7 +54,7 @@ app.post ( '/', (req, res) => {
      } )
 })
 
-// Actualizar y Eliminar
+// Actualizar y Eliminar 
      // Es patch, porque solo actualizaremos un atributo
 app.patch ( '/', ( req, res ) => {
      const {ID, Nombre} = req.body
